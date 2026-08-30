@@ -1,0 +1,6 @@
+interface:
+  display_name: "Glanceable Project Status"
+  short_description: "把机器项目状态转成清晰、可判断、可追溯的中文进度说明"
+
+policy:
+  allow_implicit_invocation: true
