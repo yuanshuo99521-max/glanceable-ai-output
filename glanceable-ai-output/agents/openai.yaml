@@ -1,0 +1,7 @@
+interface:
+  display_name: "Glanceable AI Output"
+  short_description: "把 AI 回答和项目状态转成一眼能懂、保真且可行动的人话"
+  default_prompt: "使用 $glanceable-ai-output，把我指定的 AI 回答重组为一眼能懂、保留专业术语和不确定性的表达。"
+
+policy:
+  allow_implicit_invocation: true
